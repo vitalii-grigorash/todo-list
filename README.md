@@ -27,4 +27,4 @@
 
 ## Что бы посмотреть на приложение в браузере, пройдите по ссылке:
 
-[ToDoList]( https://vitalii-grigorash.github.io/todo-list).
+[ToDoList](https://vitalii-grigorash.github.io/todo-list).
