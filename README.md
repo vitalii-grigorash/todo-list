@@ -1,4 +1,4 @@
-# ToDo List
+# ToDoList
 
 Данное приложение создано с помощью [Create React App](https://github.com/facebook/create-react-app).
 
@@ -21,10 +21,10 @@
 2. React
 3. CSS
 
-Для запуска проекта, используйте:
+## Для запуска проекта, используйте команду:
 
 ### `npm start`
 
-Что бы посмотреть на приложение в браузере, пройдите по ссылке:
+## Что бы посмотреть на приложение в браузере, пройдите по ссылке:
 
 [ToDoList]( https://vitalii-grigorash.github.io/todo-list).
