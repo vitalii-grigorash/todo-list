@@ -1,0 +1,17 @@
+.trash-place {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #2F71E5;
+    border-radius: 10px;
+    min-height: 64px;
+}
+.trash-place__icon {
+    min-height: 50px;
+    align-self: center;
+    margin: 0 0 0 20px;
+}
+.trash-place__description {
+    color: white;
+    margin: 0 20px;
+    align-self: center;
+}

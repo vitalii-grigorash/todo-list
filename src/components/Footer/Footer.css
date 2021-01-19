@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    min-height: 90px;
+    margin: 50px 0 0;
+    border-top: 1px solid #d3d3d3;
+}
+.footer__copyright {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #B6BCBF;
+    align-self: center;
+    margin-left: 10px;
+}
