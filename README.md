@@ -1,6 +1,6 @@
 # ToDoList
 
-Данное приложение создано с помощью [Create React App](https://github.com/facebook/create-react-app).
+Данное приложение создано с помощью [Create React App](https://github.com/facebook/create-react-app)
 
 ## Описание
 
